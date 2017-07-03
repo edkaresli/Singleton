@@ -7,7 +7,7 @@ Singleton::Singleton(): boss("Elon Musk")
 {
 
 }
-
+  
 Singleton::~Singleton()
 {
     if(s)
